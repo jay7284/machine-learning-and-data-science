@@ -1,0 +1,2 @@
+The project is about classifying the brain images in the four classes e.g. mild, moderate, very mild and none.
+We have used the transfer learning technique to make the model and we have used the VGG 16 model with imagenet weight pretrained model.
